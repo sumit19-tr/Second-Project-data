@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "category": "Mobiles"
+    },
+    {
+        "id":2,
+        "category":"Computers"
+    },
+	{
+        "id":3,
+        "category":"Men's Fashion"
+    },
+	{
+        "id":4,
+        "category":"Appliances"
+    },
+	{
+        "id":5,
+        "category":"Sports & Fitness"
+    },
+	{
+        "id":6,
+        "category":"Beauty & Health"
+    }
+]
